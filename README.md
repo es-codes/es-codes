@@ -6,10 +6,10 @@
 
 ##
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/es-codes">
-  <img height="180em" width="360" src="https://github-readme-stats.vercel.app/api?username=es-codes&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
-  <img height="180em" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=es-codes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="480" src="https://github-readme-stats.vercel.app/api?username=es-codes&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
+  <img height="180em" width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=es-codes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Es-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">

@@ -6,7 +6,7 @@
 
 ##
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/es-codes">
   <img height="180em" width="440" src="https://github-readme-stats.vercel.app/api?username=es-codes&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
   <img height="180em" width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=es-codes&layout=compact&langs_count=7&theme=dracula"/>

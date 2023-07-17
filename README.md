@@ -2,7 +2,6 @@
 
 ##
 
-<img align="center" height="400" width="800" img src="https://i.imgur.com/16ARtWb.jpeg"/>
 
 ##
 
